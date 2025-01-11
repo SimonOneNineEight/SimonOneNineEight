@@ -7,7 +7,7 @@
 
 ### Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,py,java,c,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,py,java,c,neovim,rust)](https://skillicons.dev)
 
 ### Github Stats
 
